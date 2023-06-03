@@ -13,7 +13,7 @@ This is a Python program that scrapes news articles from the BBC website using S
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/bbc-scraper.git
+   git clone https://github.com/este6an13/bbc-scraper.git
    ```
 
 2. Install the dependencies:
