@@ -51,5 +51,3 @@ This is a Python program that scrapes news articles from the BBC website using S
 ## License
 
 This project is licensed under the MIT License.
-
-You can copy and save this content as a `README.md` file in your project directory. Feel free to modify it according to your specific requirements and add any additional information or instructions.
